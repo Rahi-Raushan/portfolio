@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 function App() {
   useEffect(() => {
     // Update document title
-    document.title = 'Alex Johnson - Full Stack Developer';
+    document.title = 'Raushan kumar - Full Stack Developer';
     
     // Add smooth scrolling behavior
     document.documentElement.style.scrollBehavior = 'smooth';
