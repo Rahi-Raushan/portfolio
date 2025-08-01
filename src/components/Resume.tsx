@@ -150,7 +150,7 @@ const Resume: React.FC = () => {
                 <p className="text-lg text-gray-700 font-medium mb-2">Noneya High School</p>
                 <div className="flex flex-col sm:flex-row sm:justify-between">
                   <span className="text-teal-600 font-medium">2018-2020</span>
-                  <span className="text-gray-600">7089%</span>
+                  <span className="text-gray-600">70.89%</span>
                 </div>
               </div>
             </div>
